@@ -1,5 +1,3 @@
- Here is a draft Github description for your simple database project using Python and MySQL:
-
 # Simple MySQL Database 
 
 A basic database application built with Python and MySQL.
